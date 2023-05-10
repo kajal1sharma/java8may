@@ -2,11 +2,31 @@ class Test{
     public static void main(String[] args) {
 
 
-        int a = 10; //data type  identifier  =(assignment operator)  literal(constant
-        int b = a;// datatype variavle =(assign op) variable
+
+        boolean b=true;
+        boolean b2=false;
+        // char c='a';//2BYTES
+        // System.out.println((int)c);
+        // float f= 32.3444f;
+        // double d=34324.23423;
+
+        // int a = 10; //data type  identifier  =(assignment operator)  literal(constant
+        // int b = a;// datatype variavle =(assign op) variable
        
 
-        byte bt= 12;
+
+        // long l1=Long.MAX_VALUE;
+        // long l2=Long.MIN_VALUE;
+        //int => 4bytes
+        // byte bt= Byte.MIN_VALUE;
+        // byte bt2=Byte.MAX_VALUE;
+        // short sh= Short.MAX_VALUE;
+        // short sh2=Short.MIN_VALUE;
+        // int i =Integer.MIN_VALUE;
+        // int i2=Integer.MAX_VALUE;
+        // System.out.print(i);
+        // System.out.println(i2);
+        // System.out.println("hello");
         //8bits=> 1byte =>  0(1st bit => sign ) 0 0 0 0 0 0 0 
 
 
